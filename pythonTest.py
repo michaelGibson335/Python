@@ -1,4 +1,4 @@
-print('This is a test from VSCode to github')
-print('This is a new push')
-print('and another one')
-print('one more')
+user_num = int(input('Enter integer:\n'))
+print('You entered: {}'.format(user_num))
+squared = user_num * user_num
+print('{} squared is {}'.format(user_num, squared))
