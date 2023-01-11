@@ -1,7 +1,7 @@
 #this is a simple chatbot that echoes or repeats whatever a user inputs
 
 #greeting message from chatbot to user
-print('Hello I\'m Chatty the chatbox, welcome to this chatbox experience!')
+print('Hello I\'m Chatty the chatbot, welcome to this chatbot experience!')
 
 #explain to user what this program does
 print('What I\'m going to do is echo or repeat what you type to me')
