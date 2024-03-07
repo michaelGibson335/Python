@@ -5,13 +5,11 @@ from turtle import Turtle, Screen
 tomTurtle = Turtle()
 tomTurtle.shape('turtle')
 tomTurtle.color('red', 'green')
-tomTurtle.forward(100)
-tomTurtle.left(90)
-tomTurtle.forward(100)
-tomTurtle.left(90)
-tomTurtle.forward(100)
-tomTurtle.left(90)
-tomTurtle.forward(100)
+
+for i in range(4):
+    tomTurtle.forward(100)
+    tomTurtle.left(90)
+    
 
 
 
